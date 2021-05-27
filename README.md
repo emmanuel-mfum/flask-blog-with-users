@@ -278,3 +278,5 @@ In the post.html, we use Jinja syntax to check if the current user corresponds t
 the link to delete the comment is displayed and available:
 
 ![image](https://user-images.githubusercontent.com/55893421/119577310-60abb600-bd88-11eb-9ef8-37236826a24d.png)
+
+The blog is deployed and available at : https://emmanuel-blog.herokuapp.com/
